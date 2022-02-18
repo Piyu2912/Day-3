@@ -1,0 +1,26 @@
+.external {
+    font-size: 27px;
+    color: blue;
+    padding-bottom: 30px;
+}
+.major {
+    border: 3px dotted rgb(240, 236, 35);
+    margin: 20px;
+    padding: 50px 300px;
+    background-color: rgba(81, 144, 236, 0.61);
+}
+.box {
+    font-size: 25px;
+    background-color: aliceblue;
+    padding: 50px 150px;
+    border: 3px solid green;
+    width: 300px;
+    height: 300px;
+}
+.circle {
+    border: 2px solid red;
+    background-color: lightblue;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
