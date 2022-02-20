@@ -24,3 +24,15 @@
     width: 200px;
     height: 200px;
 }
+.class1 {
+    background-color: lightblue;
+    border-radius: 15%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+#id1 {
+    background-color: lightyellow;
+    border: 2px solid black;
+    padding: 8px;
+}
